@@ -14,15 +14,15 @@ th {
     text-align: center;
     background-color: greenyellow;
     width: 100px;
-    font-weight: bold;
-    padding: 30px;
-    font-size: 25px;
-    font-family: Verdana;
+    font-weight: bold; 
 }
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    text-align: center;
+    text-align: center; 
+    padding: 30px;
+    font-size: 25px;
+    font-family: 'Verdana'; 
 }
 .LMSGI {
     background-color: aquamarine;
