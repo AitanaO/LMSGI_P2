@@ -15,33 +15,65 @@ th {
     background-color: greenyellow;
     width: 100px;
     font-weight: bold;
+    padding: 30px;
+    font-size: 25px;
+    font-family: Verdana;
 }
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
 }
-#LMSGI {
+.LMSGI {
     background-color: aquamarine;
 }
-#BD {
+.BD {
     background-color: rgb(224, 96, 120);
 }
-#P {
+.P {
     background-color: rgb(196, 226, 64);
 }
-#SI {
+.SI {
     background-color: rgb(239, 166, 78);
 }
-#TUT {
+.TUT {
     background-color: rgb(165, 112, 240);
 }
-#AN {
+.AN {
     background-color: rgb(55, 151, 235);
 }
-#DIW {
+.DIW {
     background-color: rgb(113, 237, 132);
 }
-#IPO {
+.IPO {
     background-color: rgb(90, 36, 36);
+}
+#descans {
+    font-size: 20px;
+    padding: 15px;
+}
+.ocho {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+.nueve {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+.diez {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+.once {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+.doce {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
 }
